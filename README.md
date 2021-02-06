@@ -1,5 +1,5 @@
-# introduction-to-tensorflow
-Noções iniciais para utilizar o framework tensorflow
+# Introdução ao Tensorflow
+> Noções iniciais para utilizar o framework tensorflow
 
 ## Conteúdos
 
@@ -23,4 +23,4 @@ git clone https://github.com/Alyssonmach/introduction-to-tensorflow.git
 
 ## Informações do Curso
 Esse conteúdo faz parte de um curso de especialização disponível no [Coursera](https://www.coursera.org/).
-- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/).
